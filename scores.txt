@@ -1,0 +1,7 @@
+teamName,coreProgConcepts,coreProgPrinciples,gamePlay,idea,ux_ui,features,presentation,extras
+team1,80,20,100,20,30,10,50,0
+team2,50,20,60,20,30,70,50,10
+team3,10,20,80,60,20,10,50,0
+team4,100,20,100,20,50,10,50,0
+team5,60,20,100,20,30,10,50,0
+team6,10,50,70,85,60,10,50,0
